@@ -25,7 +25,8 @@ Hi, my name is Felipe Eduardo Gomes! I'm creative, proactive and result oriented
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfg&hide=Jupyter%20Notebook&layout=compact&count_private=true&langs_count=7&theme=dark" /></td>
+                <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfg&layout=compact&count_private=true&langs_count=7&theme=dark" /></td>
+<!---<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfg&hide=Jupyter%20Notebook&layout=compact&count_private=true&langs_count=7&theme=dark" /></td>--->
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gomesfg&show_icons=true&count_private=true&theme=dark" /></td>
     </tr>   
   </table>
