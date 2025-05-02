@@ -20,13 +20,3 @@ Hi, my name is Felipe Eduardo Gomes! I'm creative, proactive and result oriented
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/-Java-3A75B0?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logoColor=white&logo=spring) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logoColor=white&logo=apachekafka) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logoColor=white&logo=rabbitmq) ![AWS](https://img.shields.io/badge/-AWS-ff961f?style=flat&logoColor=white&logo=amazonwebservices) ![Docker](https://img.shields.io/badge/-Docker-1090D1?style=flat&logoColor=white&logo=docker) ![SQL Server](https://img.shields.io/badge/-SQL_Server-white?style=flat&logoColor=black&logo=microsoftsqlserver) ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat&logoColor=white&logo=oracle) ![MySQL](https://img.shields.io/badge/-MySQL-1090D1?style=flat&logoColor=white&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-45D1FD?style=flat&logoColor=white&logo=postgresql) ![Mongo DB](https://img.shields.io/badge/-Mongo_DB-white?style=flat&logoColor=green&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logoColor=red&logo=redis) ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![numpy](https://img.shields.io/badge/-numpy-black?style=flat&logoColor=white&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat&logoColor=white&logo=pandas) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-ffdd19?style=flat&logoColor=white&logo=scikitlearn)
----
-
-<center>
-  <table>
-    <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesfg&layout=compact&count_private=true&langs_count=7&theme=dark" /></td>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=gomesfg&show_icons=true&count_private=true&theme=dark" /></td>
-    </tr>   
-  </table>
-</center>
