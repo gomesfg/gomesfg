@@ -14,7 +14,7 @@ Hi, my name is Felipe Eduardo Gomes! I'm creative, proactive and result oriented
 🏆 Associate degree in Systems Analysis and Development at [FAE Business School](https://fae.edu/) <br/>
 🏆 Specialization degree in Software Engineering at [Uniasselvi](https://portal.uniasselvi.com.br/) <br/>
 🏆 Specialization degree in Data Science at [Universidade Regional de Blumenau](https://www.furb.br/) <br/>
-⏳ In progress - Specialization degree in Software Architecture and Design Patterns in Java at [FIAP](https://postech.fiap.com.br/)
+🏆 Specialization degree in Software Architecture and Design Patterns in Java at [FIAP](https://postech.fiap.com.br/)
 
 ---
 
